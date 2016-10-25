@@ -1,0 +1,29 @@
+Definición de las rutas URI,s con el recurso asociado.
+La direccion de red o ip es localhost:80/API-DENUE
+
+El servicio web brindado son los datos de direcciones fisicas de las empresas registradas en México en los ramos Mineria y 
+Agricultura que seran devueltos como recursos en formato XML o JSON.
+
+_______________________________________________________________________________________________________________________________
+| Metodo |            Ruta URI                              | Descripcion del Recurso                                         |
+|--------|--------------------------------------------------------------------------------------------------------------------|
+|  GET   |  /                                               | Devuelve esta descripcion                                       |
+|--------|--------------------------------------------------------------------------------------------------------------------|
+|  GET   | /unidadeconomica/:ue/codigoscian/:cs             | Devuelve todas las unidades economicas segun su actividad       | 
+|        |                                                  | en este caso Mineria o Agricola, despues recibe el codigo SCIAN |
+|        |                                                  | que indentifica la unidad economicia unica en America           |
+|--------|--------------------------------------------------------------------------------------------------------------------|
+|  PUT   | /unidadeconomica/:ue/codigoscian/:cs             | Actualiza un el recurso de la unidad economica que tenga el 
+|        |                                                  | codigo :cs                                                      |
+|--------|--------------------------------------------------------------------------------------------------------------------|
+|  POST  | /unidadeconomica/:ue/codigoscian/:cs             | Crea una un nuevo recurso en la tabla de unidades comomicas     | 
+|        |                                                  | de :eu (Mineria o Agricultura)                                  | 
+|--------|--------------------------------------------------------------------------------------------------------------------|
+| DELETE | /unidadeconomica/:ue/codigoscian/:cs             | Elimina la unidad economica con el codigo scian :cs             |
+|--------|--------------------------------------------------------------------------------------------------------------------|
+| GET    | /entidad/:ide/unidadeseconomicas                    | Obtiene todad                                                   |
+|--------|--------------------------------------------------------------------------------------------------------------------|
+| GET    | /municipio/:idm/unidadeseconomicas
+|--------|--------------------------------------------------------------------------------------------------------------------|
+|--------|--------------------------------------------------------------------------------------------------------------------|
+ 

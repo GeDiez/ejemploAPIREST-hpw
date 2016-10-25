@@ -1,0 +1,414 @@
+Clave localidad|Localidad
+1|Ciudad del Carmen
+2|La Albarrada (San Francisco la Albarrada)
+3|Xochitlán
+4|Pérez de Galeana
+5|Rancho los Cerritos
+6|Aquiles Serdán (Tamala)
+7|La Quemada
+8|Santa Rosalía
+9|La Estancita
+10|Anhelo
+11|Camotlán de Miraflores
+12|El Moreno (San Miguel Moreno)
+13|Mezcala
+14|Cieneguita Lluvia de Oro
+15|San Ignacio de Carboneras
+16|San Marcos (San Marcos Tlaxuchilco)
+17|Lagunillas
+18|Salina del Rey (Del Rey Sur)
+19|Cerrito de Oro
+20|La Esmeralda
+21|El Colomo
+22|Huizopa
+23|Cuesta Colorada
+24|San Lucas Totolmaloya
+25|Rancho Nuevo
+26|Las Boquillas
+27|El Chante
+28|Buena Vista de la Salud
+29|San Pedro Tlaquilpan
+30|La Trinidad
+31|Chavarrías
+32|El Pedregal
+33|El Cóbano
+34|Peñitas (El Seis)
+35|Los Picachos
+36|El Capadero
+37|Veracruz
+38|La Fragua
+39|San Ildefonso Tultepec (Centro)
+40|Colonia Ignacio Zaragoza Parte Alta
+41|Santa Ana
+42|Quesos Ayapango
+43|El Molino
+44|Pinos Altos [Compañía Minera]
+45|San Lorenzo
+46|Bahía de los Ángeles
+47|Ejido Totolzingo
+49|Las Juntas (La Floreña)
+50|Río Blanco
+51|San Pedro Tenango el Nuevo
+52|San José de la Parrilla (La Parrilla)
+53|Zoquitita
+54|La Chinita
+55|Las Piedras
+56|Caduaño
+57|Valle de Olivos (La Ciénega de Olivos)
+58|Triturados
+59|Venustiano Carranza (San Pedro)
+60|San Nicolás
+61|Salinas de San Pedro
+62|Ley Agraria 6 de Enero
+63|El Membrillo
+64|Dásila [Constructora]
+65|Los Naranjos
+66|Guerrero Negro
+67|Marfil
+68|Silvestre Sánchez
+69|El Chinguirito [Balneario]
+70|Minas de Barroterán
+71|Rancho Palo Verde (El Cerro)
+73|El Bordonal
+74|Velardeña
+75|Las Pesadas
+76|Tepehuixco
+77|Las Guásimas (Las Borregas)
+78|Ejido Chapala
+79|Las Peñitas de Ramírez [Banco de Arena]
+80|La Tinaja
+81|Recibitas (El Remolino)
+82|La Mota
+83|Santa Rita
+84|La Encantada (La Prieta)
+85|Laguna Jaco (Álvaro Obregón)
+86|Monte Oreb (El Tenayo)
+87|El Púlpito
+88|Ninguno [Rastro Municipal]
+89|Lázaro Cárdenas [Cribadora]
+90|Temazcal
+91|Pemex (Ciudad Pemex)
+92|Hornos de Cal
+93|Palaú
+94|Venustiano Carranza (Cualata)
+95|San Lucas
+96|El Tulillo
+97|Heroica Mulegé
+98|Juluchuca
+99|Yavaros (Isla las Viejas)
+101|Los Medina
+102|La Tranca (La Uva)
+103|Los Girasoles
+104|Molino de Santa Ana
+105|Tlacuilola
+106|Puerta de Caleras
+107|La Rumorosa
+108|Puerto de Buenavista (Lázaro Cárdenas)
+109|Llano Blanco
+110|Colonia Filos Nukay
+111|Santa Teresa
+112|Puente Blanco
+113|Salvador Serrato
+114|Tequesquitlán
+115|La Morita
+116|El Corazón
+118|El Chileno
+119|Montecillos
+120|Santa Rosa (Santa Rosa de Parangueo)
+121|Cuisillo (Barrio de San Ildefonso)
+122|Miramar
+123|San Bernabé
+124|El Bajío
+126|Yerbabuena
+127|Los Coyotes
+128|Ejidal [Colonia]
+129|Vizarrón de Montes
+130|El Tigre
+132|Salinas Santa Clara
+133|Lázaro Cárdenas
+134|Papaxtla
+135|Ampliación Galeana Sur
+139|Salomón [Empresa]
+140|La Mesa de Tequesquite
+141|Colonia Julio Chávez López (UPREZ)
+142|Ninguno [Sección Norte de Lagunillas]
+143|Minosa
+144|La Loma Cuexcontitlán
+145|Rancho Buenavista
+146|Colonia Tetitla
+147|Rancho Verde
+148|Tejitlán (Trituradora de Piedra Huajojutla)
+149|El Cerrito Colorado
+150|La Guadalupana
+151|Homero Martínez Valdez
+152|Colonia 10 de Abril
+153|Colonia Cuervitos
+154|Rancho Figueroa
+155|Soyatlán de Adentro (La Hacienda)
+156|La Mesa
+157|Ejido Fulgencio M. Santos (Ejido Sostepec)
+158|Chinguerito
+162|Benjamín Campos
+163|Las Piedras
+164|Tres Villas
+166|Barranca del Tizar
+169|Cruz de Cupia
+171|Las Minas
+172|Agua Bendita (El Pocito)
+174|Las Salinas (Salinas el Cuajo)
+175|Los Sabinos Número Dos
+178|San José
+179|Laguna de Palomas (Estación Carrillo)
+180|Las Peñitas
+181|San Luis
+182|Baztán del Cobre
+183|Las Estacas
+185|Caleras de Corrales
+189|José María Pino Suárez (Nuevo Nahuapa)
+191|General Heriberto Jara
+192|Huerta la Concepción (La Concha)
+195|Ejido Miguel Hidalgo
+198|Chancala Zapote
+199|Estroncios de México (San Martín) [Mina]
+200|Agua Zarca (Las Carboneras)
+201|San Juan de los Rangeles
+202|Peca (El Tope)
+203|Ninguno [Trituradora de Mármol]
+205|Kilómetro Diecisiete
+206|Cerro Náhuatl [Mina]
+208|La Lucha
+209|Rancho Concordia
+210|Ninguno [Estación Repetidora TV Azteca]
+212|San Anacleto (Pablo Villarreal)
+214|Rincón San Miguel
+216|Rincón de San Isidro (Coyotera)
+217|Barrio del Judío
+221|Sabinal Viejo
+223|El Cajón
+225|Las Primaveras
+226|El Jejito (El Molino)
+227|Ninguno [Relleno Sanitario]
+230|La Laguna
+236|Granja la Purísima
+239|Rancho la Ceiba
+241|24 de Febrero [Banco de Arena]
+243|El Playón
+245|Peñuelas (El Tren Peñuelas)
+246|El Molino
+249|El Vado (El Cerrito)
+250|El Sombrerito
+251|Rancho la Palizada
+252|Concheño
+253|Santuario del Tepozán
+254|Unimisur
+256|Planta de Beneficio el Pilón
+259|La Haciendita (El Zapote)
+263|Misión de Maconí
+265|Ejido el Castillo
+267|Triturados Pétreos de San Luis [Trituradora]
+269|Arroyo las Alazanas [Pedrera]
+270|Chichimequilla
+276|La Verónica
+280|La Ladrillera
+281|El Zapotillo
+282|El Lienzo Charro
+283|Los Polvorines de la Luz (Loma de los Gasca)
+284|Candameña (La Capilla)
+286|Parque Industrial Cadereyta
+287|Calhidra la Gloria
+291|El Pedregal (Norberto Pérez)
+294|Ninguno [Banco de Arena]
+295|Ninguno [Banco de Arenilla la Griega]
+296|Mezquitic de la Magdalena
+298|La Guadalupana [Trituradora]
+299|Hermanos Gil [Trituradora]
+303|José Luis Martínez (El Huesario)
+304|El Refugio (El Conejo)
+306|Vulgas
+311|Ribera la Unión (Castaño)
+319|Los Hornos
+321|Almacén de Coimsa [Minera Siderúrgica]
+325|La Palma
+326|Ninguno [Gasera]
+327|Ninguno [CERESO]
+334|Lindavista
+338|San Antonio
+341|Trituradora de Piedra Uno
+342|Trituradora de Piedra Dos
+345|Los Alisos
+349|José Montes
+355|San Pedro
+357|JOV [Operadora Minera]
+358|La Parota
+362|El Coco
+365|La Huiche [Mineral]
+366|Cemix
+371|La Aldea
+378|El Mezquite
+383|La Fragua
+384|La Preciosa
+390|La Joya
+393|Buenavista
+394|La Patiña
+397|La Palmita
+398|Santa Lucía
+401|Familia Martínez
+403|Campamento Minero (Peñasquito)
+404|San Francisco (La Quebradora) [Trituradora]
+408|Leona Vicario
+414|El Capulo (La Quebradora)
+416|Los Renovales
+420|Trisar
+423|Jotagua
+425|Sam Perkins
+434|Colonia San Isidro
+436|San Carlos
+438|El Molino
+451|Castamay [Trituradora]
+453|San Judas
+460|Los Verdes
+467|La Ladera
+470|Santo Tomás Chautla (Ixcobenta)
+477|El Sauco
+482|Villa Alberto Andrés Alvarado Arámburo
+487|Mojolo
+505|Salina Ometepec (NCPE Industrial Año de Juárez 1972)
+510|Ejido Hipólito Rentería
+518|Oso Nuevo (El Oso)
+524|Tampaspaque (Cruz de Aquiche)
+531|Ninguno [Distribuidora de Gas]
+535|Puente de Picos
+539|Cerrito de las Ánimas
+540|El Venado
+542|El Borbollón
+547|Los Herrera
+567|La Hermida
+577|Kilómetro 15
+580|Ranchetes Santa Lucía
+586|Nacahuitas
+597|Bachimba
+598|Nuevo Uruapan
+602|Playitas del Calvario
+610|Ramireño
+626|Ejido Topolobampo
+632|Playa Grande
+659|Ciudad Satélite
+661|La Palma [Rancho Tupinamba]
+662|Cayaxché
+675|Ninguno [Compañía Minera México Suiza]
+682|Ninguno
+685|La Curra
+686|Ninguno [Patio de Almacenamiento de Materiales]
+697|Briones [Triturados]
+707|Salinas el Venado
+714|SONMEX [Industrias]
+720|El Socorrito
+724|El Tacón
+726|Promatza
+739|San Isidro
+750|Loma de los Sauces
+751|Colonia la Ine
+778|San Evaristo
+779|Fraccionamiento Ampliación California
+783|Santa Fe
+814|Abundio Nieto
+816|La Choya
+832|Chipriona
+833|Los Naranjos
+852|San Sebastián Número Dos
+857|San Quintín
+890|El Rabón
+905|Kilómetro Diez [Trituradora]
+907|El Catorce
+922|El Grillo
+949|San Felipe (El Abra)
+958|El Chiflido
+963|San Juan de la Costa
+978|Pimsa II
+988|Nuevo Piedras Verdes
+1020|Beneficiadora de Minerales del Rosario
+1057|Santa Cecilia
+1058|Moycruz [Triturados]
+1070|Ninguno
+1121|Ejido Heriberto Jara Sección Coronita
+1154|Granjas Económicas
+1323|El Once
+1456|Los Gallegos (Colonia Colorado Número Dos)
+1478|Caopas [Compañía Minera]
+1502|Ninguno
+1527|Ejido Nueva Odisea (El Pabellón)
+1571|San Pedro la Ramadita
+1670|San Felipe (Ejido Plan Nacional Agrario) [Compañía]
+1675|Criba Almada Urrea
+1729|El Rosario de Abajo
+1734|Minera el Boleo
+1748|Ninguno [Triturados Gutiérrez]
+1916|El Rincón del Oro
+1920|Los Potros
+1923|Salinas Punta Arena
+1946|Ejido Valle Tranquilo
+1949|El Realito
+1953|El Pescador
+2071|Santa Cecilia (Licona)
+2119|Campeche Playa Esmeralda Resort
+2269|Cañada la Leña
+2412|Alfa y Omega [Trituradora]
+2465|El Rosario
+2530|Colonia 28 de Octubre (Kilómetro 6)
+2630|Ninguno
+2784|Los Naranjos
+2884|Cribas Ramsés
+2925|Ninguno
+3072|Ninguno
+3087|Criba de Culiacancito
+3510|Materiales Clasificados para la Construcción SA
+3606|Mina de Pilares
+3786|Ninguno [Cárcamo de Rebombeo]
+4444|El Morro
+7001|Localidad económica
+7002|Localidad económica
+7003|Localidad económica
+7004|Localidad económica
+7005|Localidad económica
+7006|Localidad económica
+7007|Localidad económica
+7009|Localidad económica
+7010|Localidad económica
+7012|Localidad económica
+7013|Localidad económica
+7015|Localidad económica
+7016|Localidad económica
+7017|Localidad económica
+7018|Localidad económica
+7019|Localidad económica
+7023|Localidad económica
+7024|Localidad económica
+7025|Localidad económica
+7038|Localidad económica
+7201|Localidad económica
+7202|Localidad económica
+7203|Localidad económica
+7204|Localidad económica
+7205|Localidad económica
+7206|Localidad económica
+7207|Localidad económica
+7208|Localidad económica
+7209|Localidad económica
+7211|Localidad económica
+7212|Localidad económica
+7214|Localidad económica
+7215|Localidad económica
+7216|Localidad económica
+7217|Localidad económica
+7219|Localidad económica
+7222|Localidad económica
+7240|Localidad económica
+7304|Localidad económica
+7312|Localidad económica
+7344|Localidad económica
+7601|Localidad económica
+7602|Localidad económica
+7603|Localidad económica
+7605|Localidad económica
+9001|Frente de Playa 3
+9003|Muelle Aeropuerto

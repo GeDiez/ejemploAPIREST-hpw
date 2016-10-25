@@ -1,0 +1,89 @@
+create table scian(
+  id_scian integer primary key,
+  nombre varchar (250)
+);
+
+create table estado(
+  id_estado integer primary key,
+  nombre varchar(50)
+);
+
+create table municipio(
+  id_municipio integer primary key,
+  nombre varchar(50)
+);
+
+create table localidad(
+  id_localidad integer primary key,
+  nombre varchar(50)
+);
+
+create table tipo_vialidad(
+  id_vialidad integer primary key,
+  tipo varchar(50)
+);
+
+create table direccion(
+  id_direccion integer primary key,
+  tipo_asentamiento varchar(50),
+  nombre_asentamiento varchar(150),
+  cp varchar(5),
+  num_ext varchar(7),
+  letra_ext varchar(35),
+  manzana varchar(3),
+  area_geo varchar(4),
+  id_estado integer,
+  id_municipio integer,
+  id_localidad integer,
+  foreign key (id_estado) references estado(id_estado)
+  foreign key (id_municipio) references municipio(id_municipio)
+  foreign key (id_localidad) references localidad(id_localidad)
+);
+
+create table u_economica(
+  id_ue integer primary key,
+  nombre varchar(150),
+  razon_social varchar(150),
+  codigo_scian varchar(6),
+  personal varchar(25),
+  tipo_establecimiento varchar(10),
+  email varchar(75),
+  pagina_web varchar(100),
+  fecha_denue varchar(25),
+  id_direccion integer,
+  foreign key(id_direccion) references direccion(id_direccion)
+);
+
+create table edificio(
+  id_direccion integer,
+  nombre varchar(50),
+  piso varchar(25),
+  num_int varchar(7),
+  letra_int varchar(35),
+  foreign key(id_direccion) references direccion(id_direccion)
+);
+
+create table mercado(
+  id_direccion integer,
+  nombre varchar(150),
+  tipo varchar(40),
+  num_local(20),
+  foreign key(id_direccion) references direccion(id_direccion)
+);
+
+create table referencia_vial(
+  id_direccion integer,
+  tipo_vial1 integer,
+  nombre_vial1 varchar(150),
+  tipo_vial2 integer,
+  nombre_vial2 varchar(150),
+  tipo_vial3 integer,
+  nombre_vial3 varchar(150),
+  tipo_vial4 integer,
+  nombre_vial4 varchar(150),
+  foreign key(id_direccion) references direccion(id_direccion),
+  foreign key(tipo_vial1) references tipo_vialiadad(id_vialidad),
+  foreign key(tipo_vial2) references tipo_vialiadad(id_vialidad),
+  foreign key(tipo_vial3) references tipo_vialiadad(id_vialidad),
+  foreign key(tipo_vial4) references tipo_vialiadad(id_vialidad)
+);
